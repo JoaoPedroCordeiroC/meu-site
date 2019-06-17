@@ -1,8 +1,9 @@
 <html>
 	<head>
+		<title>Teste Curso</title>
 	</head>
 	<body>
-		<h1>Projeto</h1>
+		<h1>Projetos GitHub</h1>
 		<h2>Bom dia</h2>
 	</body>
 </html>
